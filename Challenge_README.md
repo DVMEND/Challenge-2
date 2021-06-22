@@ -19,7 +19,7 @@ Screenshots of website:
 
 
 Link to deployed application:
-
+https://dvmend.github.io/Challenge-2/
 
 
 
